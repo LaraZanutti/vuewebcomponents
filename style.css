@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Poppins:wght@100;200;300;400;500&display=swap');
+
+.Hombre {
+    background-color: rgb(182, 16, 16);
+    font-size: 30px;
+    padding-left: 10px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.Mujer {
+    background-color: rgb(100, 150, 94);
+    font-size: 30px;
+    padding-left: 10px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.Niño {
+    background-color: #f6db81;
+    font-size: 30px;
+    padding-left: 10px;
+    color: #FFF;
+    text-transform: uppercase;
+    font-weight: 700;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.titulo{
+    font-family: 'Great Vibes', cursive;
+    font-size: 75px;
+    font-weight: 550;
+    transition: all .5s ease-in-out;
+}
+
+.titulo:hover{
+    transform: scale(1.25);
+    color: rgb(182, 16, 16);
+}
